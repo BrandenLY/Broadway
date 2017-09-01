@@ -63,9 +63,11 @@ footer{
 footer p, a{
   margin: 0px;
   padding: 0px;
+  display: inline-block;
   color: white;
 }
 footer ul, footer ul li{
+  padding: 0px;
   display: inline-block;
 }
 li a{
